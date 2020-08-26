@@ -1,0 +1,146 @@
+﻿
+@model PagedList.IPagedList<WebSiteBanHang.Models.DonHang>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Quản lý đơn hàng";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    if(ViewBag.TuNgayNhan != null)
+    {
+        ViewBag.TuNgayNhan = ((DateTime)ViewBag.TuNgayNhan).ToString("yyyy-MM-dd");
+    }
+    if (ViewBag.DenNgayNhan != null)
+    {
+        ViewBag.DenNgayNhan = ((DateTime)ViewBag.DenNgayNhan).ToString("yyyy-MM-dd");
+    }
+    if (ViewBag.TuNgayXuat != null)
+    {
+        ViewBag.TuNgayXuat = ((DateTime)ViewBag.TuNgayXuat).ToString("yyyy-MM-dd");
+    }
+    if (ViewBag.DenNgayXuat != null)
+    {
+        ViewBag.DenNgayXuat = ((DateTime)ViewBag.DenNgayXuat).ToString("yyyy-MM-dd");
+    }
+}
+
+@section header{
+    Danh sách tất cả đơn hàng
+}
+@section jsFooter{
+    <script src="~/assets/admin/js/controller/donHangController.js"></script>
+}
+<style>
+    .pagination-container {
+        text-align: center;
+    }
+
+    .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
+        color: blue;
+    }
+</style>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading" style="color: #337ab7;">
+                Danh sách đơn hàng
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                @using (Html.BeginForm("Index", "DonHang", FormMethod.Get))
+                {
+                    <div class="row form-group">
+                        <div class="col-lg-12" style="margin-bottom: 10px;">
+                            <div class="col-md-2" style="padding-left: 0px;">
+                                <p style="margin-bottom: 0px;margin-top: 8px;">Từ ngày nhận:</p>
+                            </div>
+                            <div class="col-md-3" style="padding-left: 0px;">
+                                <input type="date" data-date="" data-date-format="yyyy dd mm" value="@ViewBag.TuNgayNhan" class="form-control" name="tuNgayNhan" />
+                            </div>
+                            <div class="col-md-2" style="padding-left: 0px;">
+                                <p style="margin-bottom: 0px;margin-top: 8px;">Đến ngày nhận:</p>
+                            </div>
+                            <div class="col-md-3" style="padding-left: 0px;">
+                                <input type="date" data-date="" data-date-format="yyyy dd mm" value="@ViewBag.DenNgayNhan" class="form-control" name="denNgayNhan" />
+                            </div>
+                        </div>
+                        <div class="col-lg-12" style="margin-bottom: 10px;">
+                            <div class="col-md-2" style="padding-left: 0px;">
+                                <p style="margin-bottom: 0px;margin-top: 8px;">Từ ngày xuất:</p>
+                            </div>
+                            <div class="col-md-3" style="padding-left: 0px;">
+                                <input type="date" data-date="" data-date-format="yyyy dd mm" value="@ViewBag.TuNgayXuat" class="form-control" name="tuNgayXuat" />
+                            </div>
+                            <div class="col-md-2" style="padding-left: 0px;">
+                                <p style="margin-bottom: 0px;margin-top: 8px;">Đến ngày xuất:</p>
+                            </div>
+                            <div class="col-md-3" style="padding-left: 0px;">
+                                <input type="date" data-date="" data-date-format="yyyy dd mm" value="@ViewBag.DenNgayXuat" class="form-control" name="denNgayXuat" />
+                            </div>
+                        </div>
+                        <div class="col-lg-12" style="margin-bottom: 10px;">
+                            <div class="col-md-4" style="padding-left: 0px;">
+                                <input type="text" data-date="" data-date-format="yyyy dd mm" value="@ViewBag.SearchString" class="form-control" name="searchString" />
+                            </div>
+                            <div class="col-md-4">
+                                <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+                            </div>
+                            <div class="col-md-4" style="text-align:right;">
+                                <a class="btn btn-primary" href="/ExportDonHang/DonHang?searchString=@ViewBag.SearchString&tuNgayNhan=@ViewBag.TuNgayNhan&denNgayNhan=@ViewBag.DenNgayNhan&tuNgayXuat=@ViewBag.DenNgayXuat&denNgayXuat=@ViewBag.DenNgayXuat">Tải xuống</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+                <div class="table-responsive">
+                    <table class="table table-striped table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th style="text-align: center;">Mã đơn hàng</th>
+                                <th style="text-align: center;">Chi tiết đơn hàng</th>
+                                <th style="text-align: center;">Giá trị đơn hàng</th>
+                                <th style="text-align: center;">Khách hàng</th>
+                                <th style="text-align: center;">Ngày nhận đơn</th>
+                                <th style="text-align: center;">Ngày xuất đơn</th>
+                                <th style="text-align: center;">Trạng thái</th>
+                                <th style="text-align: center;">Thao tác</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr id="row_@item.DonHangID">
+                                    <td style="text-align: center;">@item.DonHangID</td>
+                                    <td style="text-align: center;">
+                                        @Html.ActionLink("Xem chi tiết", "ShowModalSanPhamDonHang", new { donHangID = item.DonHangID })
+                                    </td>
+                                    <td style="text-align: center;">@item.GiaTriDonHang</td>
+                                    <td style="text-align: center;">@item.KhachHang.HoTen</td>
+                                    <td style="text-align: center;">@(item.NgayNhan != null ? ((DateTime)item.NgayNhan).ToString("dd/MM/yyyy") : "")</td>
+                                    <td style="text-align: center;">@(item.NgayXuat != null ? ((DateTime)item.NgayXuat).ToString("dd/MM/yyyy") : "")</td>
+                                    <td style="text-align: center;"><a href="#" class="btn-active" data-id="@item.DonHangID">@Html.Raw(item.Status ? "<strong>Đã giao hàng/thanh toán</strong>" : "Chưa giao hàng")</a></td>
+                                    <td style="text-align: center;">
+                                        <a href="/Admin/DonHang/Edit/@item.DonHangID">Sửa</a>
+                                        |
+                                        @Ajax.ActionLink("Xoá", "Delete", new { @id = item.DonHangID }, new AjaxOptions
+                                   {
+                                       Confirm = "Bạn có muốn xoá bản ghi này?",
+                                       OnComplete = "$('#row_" + @item.DonHangID + "').remove()",
+                                       HttpMethod = "Delete"
+                                   })
+                                    </td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                    @Html.PagedListPager(Model, page => Url.Action("Index", new { page, @searchString = @ViewBag.SearchString, @tuNgayNhan = ViewBag.TuNgayNhan, @denNgayNhan = ViewBag.DenNgayNhan, @tuNgayXuat = ViewBag.TuNgayXuat, @denNgayXuat = ViewBag.DenNgayXuat }))
+                    <div style="color:red">
+                        <h3> Tổng giá trị tất cả hóa đơn theo lần lọc: @ViewBag.TongTien (VNĐ)</h3>
+                    </div>
+                </div>
+                <!-- /.table-responsive -->
+            </div>
+            <!-- /.panel-body -->
+        </div>
+    </div>
+</div>
+<script>
+</script>

@@ -1,0 +1,95 @@
+﻿
+
+@model PagedList.IPagedList<WebSiteBanHang.Models.NhanVien>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Quản lý nhân viên";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+@section header{
+    Danh sách nhân viên
+}
+
+@section jsFooter{
+    <script src="~/assets/admin/js/controller/nhanVienController.js"></script>
+}
+<style>
+    .pagination-container {
+        text-align: center;
+    }
+
+    .table-bordered > thead > tr > td, .table-bordered > thead > tr > th {
+        color: blue;
+    }
+</style>
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading" style="color: #337ab7;">
+                Danh sách nhân viên
+            </div>
+            <!-- /.panel-heading -->
+            <div class="panel-body">
+                @using (Html.BeginForm("Index", "NhanVien", FormMethod.Get))
+                {
+                    <div class="row form-group">
+                        <div class="col-lg-12">
+                            <div class="col-md-4" style="padding-left: 0px;">
+                                <input type="text" value="@ViewBag.SearchString" class="form-control" name="searchString" />
+                            </div>
+                            <div class="col-md-4">
+                                <button type="submit" class="btn btn-primary">Tìm kiếm</button>
+                                <a class="btn btn-primary" href="/Admin/NhanVien/Create">Thêm mới</a>
+                            </div>
+                        </div>
+                    </div>
+                }
+                <div class="table-responsive">
+                    <table class="table table-striped table-bordered table-hover">
+                        <thead>
+                            <tr>
+                                <th>Tên nhân viên</th>
+                                <th>Ngày sinh</th>
+                                <th>Email</th>
+                                <th>Số điện thoại 1</th>
+                                <th>Số điện thoại 2</th>
+                                <th>Địa chỉ</th>
+                                <th>Giới tính</th>
+                                <th>Thao tác</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @foreach (var item in Model)
+                            {
+                                <tr id="row_@item.NhanVienID">
+                                    <td>@item.HoTen</td>
+                                    <td>@(item.NgaySinh != null ? ((DateTime)item.NgaySinh).ToString("dd/MM/yyyy") : "")</td>
+                                    <td>@item.Email</td>
+                                    <td>@item.SoDienThoai1</td>
+                                    <td>@item.SoDienThoai2</td>
+                                    <td>@item.DiaChi</td>
+                                    <td><a href="#" class="btn-active" data-id="@item.NhanVienID">@Html.Raw(item.GioiTinh ? "<strong>Nam</strong>" : "Nữ")</a></td>
+                                    <td>
+                                        <a href="/Admin/NhanVien/Edit/@item.NhanVienID">Sửa</a>
+                                        |
+                                        @Ajax.ActionLink("Xoá", "Delete", new { @id = item.NhanVienID }, new AjaxOptions
+                                   {
+                                       Confirm = "Bạn có muốn xoá bản ghi này?",
+                                       OnComplete = "$('#row_" + @item.NhanVienID + "').remove()",
+                                       HttpMethod = "Delete"
+                                   })
+                                    </td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                    @Html.PagedListPager(Model, page => Url.Action("Index", new { page, @searchString = @ViewBag.SearchString }))
+                </div>
+                <!-- /.table-responsive -->
+            </div>
+            <!-- /.panel-body -->
+        </div>
+    </div>
+</div>

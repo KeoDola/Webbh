@@ -1,0 +1,40 @@
+﻿@model WebSiteBanHang.Models.UserGroup
+@{
+    ViewBag.Title = "Sửa thông tin nhóm người dùng";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@section header{
+    Cập nhật nhóm người dùng
+}
+<div class="row">
+    <div class="col-lg-12">
+        <div class="panel panel-default">
+            <div class="panel-heading">
+                Nhập thông tin nhóm người dùng.
+            </div>
+            <div class="panel-body">
+                <div class="row">
+                    <div class="col-lg-6">
+                        @using (Html.BeginForm("Edit", "UserGroup", FormMethod.Post))
+                        {
+                            @Html.AntiForgeryToken()
+                            @Html.HiddenFor(model =>  model.UserGroupID)
+                            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                            <div class="form-group">
+                                @Html.LabelFor(model => model.GroupName, htmlAttributes: new { @class = "control-label col-md-5" })
+                                @Html.TextBoxFor(model => model.GroupName, new {required=true, htmlAttributes = new { @class = "form-control" } })
+                                @Html.ValidationMessageFor(model => model.GroupName, "", new { @class = "text-danger" })
+                            </div>
+                            <div class="form-group">
+                                <div class="col-md-10">
+                                    <input type="submit" value="Cập nhật" class="btn btn-primary" />
+                                </div>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

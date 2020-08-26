@@ -1,0 +1,73 @@
+﻿@model WebSiteBanHang.Models.DanhMucSanPham
+@{
+    ViewBag.Title = "Tạo danh mục sản phẩm";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@section header{
+    Tạo mới danh mục sản phẩm
+}   
+<style>
+    input, select, textarea {
+        width: 70%;
+    }
+</style>
+ <div class="form-horizontal">
+    <h4>Danh mục sản phẩm</h4>
+    <hr />
+    @using (Html.BeginForm("Create", "DanhMucSanPham", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.TenDanhMucSanPham, htmlAttributes: new { @class = "col-md-3" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.TenDanhMucSanPham, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.TenDanhMucSanPham, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.GhiChu, htmlAttributes: new { @class = " col-md-3" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.GhiChu, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.GhiChu, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.LaDoNam, htmlAttributes: new { @class = " col-md-3" })
+            <div class="col-md-5">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.LaDoNam)
+                    @Html.ValidationMessageFor(model => model.LaDoNam, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.LaDoNu, htmlAttributes: new { @class = " col-md-3" })
+            <div class="col-md-5">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.LaDoNu)
+                    @Html.ValidationMessageFor(model => model.LaDoNu, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.LaDoTreEm, htmlAttributes: new { @class = " col-md-3" })
+            <div class="col-md-5">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.LaDoTreEm)
+                    @Html.ValidationMessageFor(model => model.LaDoTreEm, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-3 col-md-10">
+                <input style="width:10%;" type="submit" value="Tạo mới" class="btn btn-primary" />
+            </div>
+        </div>
+    }
+</div>
+<div>
+    @Html.ActionLink("Quay lại trang trước", "Index")
+</div>

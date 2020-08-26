@@ -1,0 +1,70 @@
+﻿@model IEnumerable<WebSiteBanHang.Models.SanPhamDonHang>
+@{
+    ViewBag.Title = "Sản phẩm đơn hàng";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+    var i = 1;
+}
+
+@section header{
+    Chi tiết sản phẩm đơn hàng
+}
+<style>
+    input, select, textarea {
+        width: 70%;
+    }
+</style>
+<div class="form-horizontal">
+    <div>
+        <div>
+            <div>
+                <div style="color:blue">
+                    Chi tiết sản phẩm trong đơn hàng.
+                </div>
+                <div class="col-md-12" style="text-align:right;margin-bottom: 30px;">
+                    <a class="btn btn-primary" href="/ExportSanPhamDonHang/SanPhamDonHang?DonHangID=@ViewBag.DonHangID">Tải xuống</a>
+                </div>
+                <div>
+                    <div>
+                        <div>
+                            <table class="table">
+                                <thead>
+                                    <tr>
+                                        <th style="color:blue" scope="col">STT</th>
+                                        <th style="color:blue" scope="col">Mã hóa đơn</th>
+                                        <th style="color:blue" scope="col">Tên sản phẩm</th>
+                                        <th style="color:blue" scope="col">Số lượng</th>
+                                        <th style="color:blue" scope="col">Giá sản phẩm</th>
+                                        <th style="color:blue" scope="col">Tổng tiền</th>
+                                        <th style="color:blue" scope="col">Ghi chú</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    @foreach (var item in Model)
+                                    {
+                                        var tongTien = Convert.ToInt32(item.SoLuong * item.SanPham.GiaSanPham);
+                                        <tr>
+                                            <td>@i</td>
+                                            <td>@ViewBag.DonHangID</td>
+                                            <td>@item.SanPham.TenSanPham</td>
+                                            <td>@item.SoLuong </td>
+                                            <td>@item.SanPham.GiaSanPham.Value (VNĐ)</td>
+                                            <td>@tongTien</td>
+                                            <td>@ViewBag.GhiChu</td>
+                                        </tr>
+                                        i++;
+                                    }
+                                </tbody>
+                                <tfoot>
+                                    <tr>
+                                        <th style="color:red" colspan="4">Tổng tiền:</th>
+                                        <th style="color:red">@ViewBag.GiaTriDonHang</th>
+                                    </tr>
+                                </tfoot>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

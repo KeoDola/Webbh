@@ -1,0 +1,107 @@
+﻿
+@model WebSiteBanHang.Models.User
+@{
+    ViewBag.Title = "Tạo mới người dùng";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@section header{
+    Thêm mới người dùng
+}
+<style>
+    input, select {
+        width: 70%;
+    }
+</style>
+<div class="form-horizontal">
+    <h3>
+        Nhập thông tin người dùng.
+    </h3>
+    @using (Html.BeginForm("Create", "User", FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.UserName, htmlAttributes: new { @class = " col-md-2" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.UserName, new { required = true, htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Password, htmlAttributes: new { @class = " col-md-2" })
+            <div class="col-md-5">
+                @Html.PasswordFor(model => model.Password, new { required = true, htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Name, htmlAttributes: new { @class = " col-md-2" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.Name, new { required = true, htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Name, "", new { @class = "text-danger" })
+
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Address, htmlAttributes: new { @class = " col-md-2" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.Address, new { required = true, htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Address, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = " col-md-2" })
+            <div class="col-md-5">
+
+                @Html.TextBoxFor(model => model.Email, new { required = true, htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Phone, htmlAttributes: new { @class = " col-md-2" })
+            <div class="col-md-5">
+
+                @Html.TextBoxFor(model => model.Phone, new { required = true, type = "number", htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Phone, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.DiaChiChiTiet, htmlAttributes: new { @class = " col-md-2" })
+            <div class="col-md-5">
+                @Html.TextBoxFor(model => model.DiaChiChiTiet, new { required = true, htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.DiaChiChiTiet, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.GroupID, htmlAttributes: new { @class = "col-md-2" })
+            <div class="col-md-5">
+                @Html.DropDownListFor(model => model.GroupID, null, new { required = true, htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.GroupID, "", new { @class = "text-danger" })
+            </div>
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.Status, htmlAttributes: new { @class = " col-md-2" })
+            <div class="col-md-5">
+
+                @Html.CheckBoxFor(model => model.Status, new { required = true, htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Status, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-10">
+                <input style="width:10%" type="submit" value="Tạo mới" class="btn btn-primary" />
+            </div>
+        </div>
+    }
+</div>
+
+<div>
+    @Html.ActionLink("Quay lại trang trước", "Index")
+</div>

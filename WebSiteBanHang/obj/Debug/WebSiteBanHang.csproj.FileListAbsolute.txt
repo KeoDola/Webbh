@@ -1,0 +1,300 @@
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.xml
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Cors.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.Cors.dll
+C:\Users\admin\source\repos\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.Cors.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Cors.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.Cors.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.Cors.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\BotDetect.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\BotDetect.Web.Mvc.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Facebook.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Data.SQLite.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Facebook.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Data.SQLite.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Data.SQLite.dll.config
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaLib.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\StaticResources.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\StaticResources.pdb
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\en\StaticResources.resources.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Vse.Web.Serialization.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebApiContrib.Formatting.JavaScriptSerializer.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Vse.Web.Serialization.pdb
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EPPlus.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EPPlus.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\BotDetect.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\BotDetect.Web.Mvc.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaLib.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EPPlus.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Facebook.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\StaticResources.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Data.SQLite.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Cors.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.Cors.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Vse.Web.Serialization.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebApiContrib.Formatting.JavaScriptSerializer.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\StaticResources.pdb
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EPPlus.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Facebook.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Data.SQLite.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Data.SQLite.dll.config
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.Cors.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Vse.Web.Serialization.pdb
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\en\StaticResources.resources.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\BotDetect.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\BotDetect.Web.Mvc.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaLib.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EPPlus.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Facebook.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\StaticResources.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Data.SQLite.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Cors.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.Cors.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Vse.Web.Serialization.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebApiContrib.Formatting.JavaScriptSerializer.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\StaticResources.pdb
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\EPPlus.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Facebook.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Data.SQLite.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Data.SQLite.dll.config
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.Cors.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Vse.Web.Serialization.pdb
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\bin\en\StaticResources.resources.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll.config
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\WebSiteBanHang.pdb
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\BotDetect.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\BotDetect.Web.Mvc.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaLib.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\EPPlus.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\Facebook.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\StaticResources.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Data.SQLite.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Net.Http.Formatting.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Cors.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.Cors.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.WebHost.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\Vse.Web.Serialization.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\WebApiContrib.Formatting.JavaScriptSerializer.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\WebGrease.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\StaticResources.pdb
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.pdb
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\CaptchaMvc.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\EntityFramework.SqlServer.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\EPPlus.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\Facebook.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\PagedList.Mvc.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Data.SQLite.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Data.SQLite.dll.config
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Net.Http.Formatting.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.Cors.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\Newtonsoft.Json.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Helpers.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Http.WebHost.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Mvc.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Optimization.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.Razor.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Deployment.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\System.Web.WebPages.Razor.xml
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\Vse.Web.Serialization.pdb
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\Antlr3.Runtime.pdb
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\bin\en\StaticResources.resources.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csprojAssemblyReference.cache
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.csproj.CopyComplete
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\WebSiteBanHang\obj\Debug\WebSiteBanHang.pdb

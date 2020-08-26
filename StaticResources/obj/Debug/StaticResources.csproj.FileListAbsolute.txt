@@ -1,0 +1,53 @@
+C:\Users\admin\Desktop\onlineshop-master\onlineshop-master\StaticResources\bin\Debug\StaticResources.dll
+C:\Users\admin\Desktop\onlineshop-master\onlineshop-master\StaticResources\bin\Debug\StaticResources.pdb
+C:\Users\admin\Desktop\onlineshop-master\onlineshop-master\StaticResources\bin\Debug\en\StaticResources.resources.dll
+C:\Users\admin\Desktop\onlineshop-master\onlineshop-master\StaticResources\obj\Debug\StaticResources.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\onlineshop-master\onlineshop-master\StaticResources\obj\Debug\StaticResources.Resources.resources
+C:\Users\admin\Desktop\onlineshop-master\onlineshop-master\StaticResources\obj\Debug\StaticResources.Resources.en.resources
+C:\Users\admin\Desktop\onlineshop-master\onlineshop-master\StaticResources\obj\Debug\StaticResources.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\onlineshop-master\onlineshop-master\StaticResources\obj\Debug\StaticResources.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\onlineshop-master\onlineshop-master\StaticResources\obj\Debug\en\StaticResources.resources.dll
+C:\Users\admin\Desktop\onlineshop-master\onlineshop-master\StaticResources\obj\Debug\StaticResources.dll
+C:\Users\admin\Desktop\onlineshop-master\onlineshop-master\StaticResources\obj\Debug\StaticResources.pdb
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\StaticResources\bin\Debug\StaticResources.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\StaticResources\bin\Debug\StaticResources.pdb
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\StaticResources\bin\Debug\en\StaticResources.resources.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.Resources.resources
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.Resources.en.resources
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\en\StaticResources.resources.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.dll
+C:\Users\admin\Desktop\WebBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.pdb
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\bin\Debug\StaticResources.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\bin\Debug\StaticResources.pdb
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\bin\Debug\en\StaticResources.resources.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.Resources.resources
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.Resources.en.resources
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\en\StaticResources.resources.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.dll
+C:\Users\admin\Desktop\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.pdb
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\bin\Debug\StaticResources.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\bin\Debug\StaticResources.pdb
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\bin\Debug\en\StaticResources.resources.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.Resources.resources
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.Resources.en.resources
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\en\StaticResources.resources.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.dll
+C:\Users\admin\OneDrive\Máy tính\WebsiteBanHang\trunk\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.pdb
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\StaticResources\bin\Debug\StaticResources.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\StaticResources\bin\Debug\StaticResources.pdb
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\StaticResources\bin\Debug\en\StaticResources.resources.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.Resources.resources
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.Resources.en.resources
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.csproj.GenerateResource.cache
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\StaticResources\obj\Debug\en\StaticResources.resources.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.dll
+C:\Users\phi.lekim\Downloads\WebBH\API\WebSiteBanHang\StaticResources\obj\Debug\StaticResources.pdb
