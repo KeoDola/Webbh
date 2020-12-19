@@ -321,7 +321,7 @@
     <Compile Include="ViewModel\SanPhamViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Areas\Admin\images\brooke-lark-609899-unsplash..jpg" />
+    <Content Include="Content\Img\brooke-lark-609899-unsplash.jpg" />
     <Content Include="assets\admin\js\controller\danhMucController.js" />
     <Content Include="assets\admin\js\controller\donHangController.js" />
     <Content Include="assets\admin\js\controller\khachHangController.js" />
@@ -2362,7 +2362,8 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap.css.map" />
     <Content Include="Content\bootstrap.min.css.map" />
-    <None Include="Properties\PublishProfiles\WebSiteBanHang20201214105543 - Web Deploy.pubxml" />
+    <Content Include="FilesUpload\DanhSachDonHang.xlsx" />
+    <None Include="Properties\PublishProfiles\shoppingonlinenow - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -2431,7 +2432,6 @@
     <Folder Include="assets\admin\js\plugins\ckfinder\plugins\imageresize\bin\Release\" />
     <Folder Include="assets\admin\js\plugins\ckfinder\plugins\watermark\bin\Debug\" />
     <Folder Include="assets\admin\js\plugins\ckfinder\plugins\watermark\bin\Release\" />
-    <Folder Include="FilesUpload\" />
     <Folder Include="Views\Cart\" />
     <Folder Include="Views\ThanhToans\" />
   </ItemGroup>
